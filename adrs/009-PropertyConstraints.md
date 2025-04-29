@@ -25,7 +25,7 @@ We leave the `Property` without `Constraint`, making it necessary to specialize 
   * Requires many specialized `Properties`.
 
 
-### Option B: Allow constraints on `Properties` 
+### Option B: Allow constraints on `Properties`, but without altering the dimension of the properties 
 
 Examples: Radiation as `Property` with a `Constraint` on it ("downwelling", "upwelling", "longwave", shortwave")
 
